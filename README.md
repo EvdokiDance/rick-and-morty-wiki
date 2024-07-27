@@ -1,2 +1,1 @@
-// TZ https://docs.google.com/document/d/1ZroJTKqtxsaZ-LGsdnfIAaqEEw3kHNpraeCYsW3mOps/edit
-// API https://rickandmortyapi.com/ 
+WIKI RICK AND MORTY ON VUE 3 COMPOSITION API
