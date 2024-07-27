@@ -9,10 +9,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.4.21"
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
-    "vite": "^5.2.8"
+    "@vitejs/plugin-vue-jsx": "^4.0.0",
+    "typescript": "^5.5.2",
+    "vite": "^5.2.8",
+    "vite-plugin-checker": "^0.6.4",
+    "vue-tsc": "^2.0.22"
   }
 }
