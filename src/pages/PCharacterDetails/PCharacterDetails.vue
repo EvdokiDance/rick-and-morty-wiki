@@ -2,6 +2,7 @@
 import Container from '@/components/Container/Container.vue';
 
 import CharacterDetails from '@/components/CharacterDetails/CharacterDetails.vue'
+
 </script>
 
 
